@@ -1,0 +1,4 @@
+mkdir selenium-test-project
+cd selenium-test-project
+npm init -y
+npm install selenium-webdriver webdriverio
